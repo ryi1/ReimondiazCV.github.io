@@ -12,6 +12,10 @@ fieldset{
     margin-bottom: 12px;
 
 }
+a {
+    color: black;
+text-decoration: solid;
+}
 legend{
     background-color: grey;
     padding: 5px;
